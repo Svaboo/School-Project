@@ -1,1 +1,43 @@
-test
+⛓️‍💥 NI DOKONČANO ⛓️‍💥
+
+Three.js & Python Web App
+
+To je spletna aplikacija, ki uporablja Three.js za 3D vizualizacijo na odjemalski strani in Python (Flask) za strežniški del.
+
+📌 Zahteve
+
+Strežniški del (Python)
+Python 3.8+
+Flask
+
+🚀 Namestitev in zagon
+
+Kloniraj repozitorijV:
+
+git clone https://github.com/tvoj-uporabnik/tvoj-repozitorij.git
+cd tvoj-repozitorij
+
+Namesti odvisnosti
+
+Python:
+
+pip install -r requirements.txt
+
+Node.js (za Three.js):
+
+npm install
+
+Zaženi strežnik
+
+python server.py 
+
+Zaženi odjemalsko stran
+
+npm start  # ali odpri index.html v brskalniku
+
+📜 Licenca
+
+Ta projekt je objavljen pod MIT licenco. Uporabljaj in prilagajaj po želji!
+
+
+
